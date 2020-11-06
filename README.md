@@ -2,6 +2,7 @@
 
 Student Name: Ben Cosgrave<br>
 Student Number: C17445274<br>
+Class: TU856/4 (DT228/4)
 
 For this assignment, I plan to create a procedurally generated city with a road on which you can drive a vehicle.
 The general design for the city will be based on a layout of modular blocks, similar to the likes of Barcelona or New York City.
